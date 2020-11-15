@@ -2,7 +2,7 @@ body{
     background: linear-gradient(120deg, #2980B9, #8e44a8) no-repeat;
     height: 100vh;
 }
-html{
+head{
     font-family: 'Roboto Slab', serif;
 }
 .center{
